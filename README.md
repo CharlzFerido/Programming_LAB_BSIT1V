@@ -1,2 +1,0 @@
-# Exercises
-For Educational Purposes
