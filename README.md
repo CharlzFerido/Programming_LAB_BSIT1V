@@ -1,1 +1,2 @@
-This is for EDUCATIONAL purposes
+Hi! I'm Christian Charlz Ferido from BSIT-1V GROUP 6
+"THIS IS FOR EDUCATIONAL PURPOSES ONLY"
