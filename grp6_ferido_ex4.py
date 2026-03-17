@@ -24,14 +24,14 @@ print("Modulus:", float1 % float2)
 print("Exponent:", float1 ** float2)
 
 # Complex values
-comp1 = 4 + 3j
-comp2 = 3 + 2j
+complex1 = 4 + 3j
+complex2 = 3 + 2j
 print("COMPLEX OPERATIONS")
-print("Addition:", comp1 + comp2)
-print("Subtraction:", comp1 - comp2)
-print("Multiplication:", comp1 * comp2)
-print("Division:", comp1 / comp2)
-print("Exponent:", comp1 ** 2)
+print("Addition:", complex1 + complex2)
+print("Subtraction:", complex1 - complex2)
+print("Multiplication:", complex1 * complex2)
+print("Division:", complex1 / complex2)
+print("Exponent:", complex1 ** 2)
 
 #2 Integer with and without underscores
 num1 = 25000000
